@@ -1,0 +1,50 @@
+[
+  {
+    "nume": "Miruna",
+    "postul": "student",
+    "dataAngajarii": "2019-05-23",
+    "salariul": 3000.0
+  },
+  {
+    "nume": "Stefan",
+    "postul": "manager",
+    "dataAngajarii": "2019-01-06",
+    "salariul": 8700.0
+  },
+  {
+    "nume": "Sergiu",
+    "postul": "webdev",
+    "dataAngajarii": "2017-07-07",
+    "salariul": 9000.0
+  },
+  {
+    "nume": "David",
+    "postul": "sef",
+    "dataAngajarii": "2022-04-01",
+    "salariul": 7500.0
+  },
+  {
+    "nume": "David",
+    "postul": "director",
+    "dataAngajarii": "2019-11-01",
+    "salariul": 7500.0
+  },
+  {
+    "nume": "Ion",
+    "postul": "Muncitor",
+    "dataAngajarii": "2021-10-16",
+    "salariul": 2300.0
+  },
+  {
+    "nume": "Mirela",
+    "postul": "director",
+    "dataAngajarii": "2022-06-01",
+    "salariul": 7500.0
+  },
+  {
+    "nume": "Tudor",
+    "postul": "sef",
+    "dataAngajarii": "2022-07-01",
+    "salariul": 7500.0
+  }
+]
